@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/mackwan84/passport-quizlet",
   "dependencies": {
-    "passport-oauth": "^1.0.0",
+    "passport-oauth2": "^1.1.2",
     "util": "^0.10.3"
   }
 }
