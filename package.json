@@ -1,0 +1,28 @@
+{
+  "name": "passport-quizlet",
+  "version": "1.0.0",
+  "description": "Passport OAuth Strategy for quizlet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mackwan84/passport-quizlet.git"
+  },
+  "keywords": [
+    "passport",
+    "oauth",
+    "quizlet"
+  ],
+  "author": "Mac Kwan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mackwan84/passport-quizlet/issues"
+  },
+  "homepage": "https://github.com/mackwan84/passport-quizlet",
+  "dependencies": {
+    "passport-oauth": "^1.0.0",
+    "util": "^0.10.3"
+  }
+}
