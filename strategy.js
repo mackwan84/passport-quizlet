@@ -48,4 +48,4 @@ QuizletStrategy.prototype.userProfile = function (accessToken, done) {
 /**
  * Expose `Strategy`.
  */
-module.exports = Strategy;
+module.exports = QuizletStrategy;
