@@ -1,6 +1,6 @@
 {
   "name": "passport-quizlet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Passport OAuth Strategy for quizlet.",
   "main": "index.js",
   "scripts": {
