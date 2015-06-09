@@ -4,6 +4,7 @@
 var util = require('util'),
     url = require('url'),
     uid = require('uid2'),
+    _ = require('lodash'),
     OAuth2Strategy = require('passport-oauth2').Strategy,
     AuthorizationError = require('passport-oauth2').AuthorizationError,
     InternalOAuthError = require('passport-oauth2').InternalOAuthError;
